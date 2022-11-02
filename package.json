@@ -1,0 +1,10 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "ws"
+  },
+  "dependencies": {
+    "local-web-server": "^5.2.1"
+  }
+}
